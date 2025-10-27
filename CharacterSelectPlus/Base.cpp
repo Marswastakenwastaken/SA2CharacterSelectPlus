@@ -1215,7 +1215,7 @@ void LoadTitleCardTextures()
 		{
 		case Characters_Knuckles:
 		case Characters_Rouge:
-			v15 = "KN";
+			v15 = "RO";
 			break;
 		case Characters_Tails:
 		case Characters_Eggman:
